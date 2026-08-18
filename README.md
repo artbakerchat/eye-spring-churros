@@ -6,11 +6,12 @@ A project for managing and showcasing eye spring churros.
 
 Add your project description here.
 
-## Features
+## Workshops
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Workshop 1
+- Workshop 2
+- Workshop 3
+- Workshop 4
 
 ## Installation
 
