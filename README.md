@@ -7,13 +7,25 @@ where you're a collaborator (municipal project, shared tech repo),
 you must use Git commands - and that means token or SSH.
 
 GitHub needs to enforce:
-permissions
-branch protection
-collaboration rules
-audit trails
+
+- permissions
+
+- branch protection
+
+- collaboration rules
+
+- audit trails
 
 So you can't unless you have access.
 That's why cloning becomes essential.
+
+Who are you?
+
+Are you allowed to push?
+
+Do you have write permission?
+
+Personal token is best for Caufield library computers because it is easy to paste when Git asks for password.
 
 ## Description
 Add your project description here.
