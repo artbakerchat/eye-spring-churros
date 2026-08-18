@@ -1,5 +1,19 @@
 # Eye Spring Churros
 A project for managing and showcasing eye spring churros.
+Add via what? I don't need anything. Whatever. 
+Uploading files on the website only works for repos you own.
+The moment you need to work in the community, or any repo
+where you're a collaborator (municipal project, shared tech repo),
+you must use Git commands - and that means token or SSH.
+
+GitHub needs to enforce:
+permissions
+branch protection
+collaboration rules
+audit trails
+
+So you can't unless you have access.
+That's why cloning becomes essential.
 
 ## Description
 Add your project description here.
